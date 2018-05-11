@@ -1,3 +1,12 @@
+# qTranslate - new fork in progress
+:warning: :warning: :warning: This forked version of qTranslate-X is a work in progress. We are setting up contribution guidelines and workflow for anyone who would like to contribute to this project.  Please feel free to open issues, questions or comments here that pertain to the new fork, workflow and guidelines so that we can ensure a long and successful future for this plugin.
+
+Context: This plugin appears to no longer be supported by the contributors. It is a very popular plugin for internationalization/localization and we thank the contributors for their time up to this point. This plugin is now at risk of being incompatible with WordPress and newer versions of of its dependencies. If you are any of the contributors listed below, please feel free to reach out if this is not the case!
+
+More details can be found here https://github.com/qTranslate-Team/qtranslate-x/issues/579
+
+---
+
 # qTranslate X #
 Developed by: qTranslate Team based on original code by Qian Qin
 Contributors: johnclause, chineseleper, Vavooon, grafcom
